@@ -1,2 +1,2 @@
 # disk_food_api
-api para atender restaurantes
+api para atender deliverys
